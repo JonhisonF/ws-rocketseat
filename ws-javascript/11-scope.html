@@ -1,0 +1,23 @@
+<script>
+
+    // vamos iniciar um bloco
+    /* {
+        let x = 0;
+        console.log(x);
+    } */
+    
+    // var é global e, também é local
+    // o 'x' existe mas não tem um valor definido
+    // o javascript faz por debaixo dos panos a declaração da variável antes mesmo
+    // do console.log()
+    // var x; < define desse jeito sem valor, por isso undefined
+    // o nome para isso é hoisting(elevação), eleva a variável sem nós vermos
+    console.log('> existe x antes do bloco? ', x);
+
+    {   
+        var x = 0;
+    }
+
+    console.log('> existe x depois do bloco? ', x);
+
+</script>

@@ -23,9 +23,9 @@ Conforme o ECMAScript standard temos 9 tipos de dados:
     * Array
     * Map
     * Set
-    * Date 
+    * Date
 * Function
 
 ## Primitivo Estrutural / Structural Root Primitive
 
-* null
+* null - tipo de objeto

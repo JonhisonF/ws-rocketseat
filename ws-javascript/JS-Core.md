@@ -1,5 +1,5 @@
 # Javascript Core
-<!-- Core significa nucleo (coisas principais) -->
+<!-- Core significa nucleo(coisas principais) -->
 
 * Linguagem de programação que roda no navegador do usuário (front-end)
     * Se você clicar em algum botão da página e aparece uma janela. Isso é o 
@@ -15,3 +15,15 @@
     * Uber
     * Neflix
     * TikTok
+* 99.99% dos sites na web usam Javascript
+* Linguagem obrigatória para quem programa o Front0end web
+
+## Evolução
+
+* A comunidade cresce cada vez mais e a linguagem está sempre evoluindo
+
+- Tipos de dados;
+- Variáveis;
+- Funções;
+- Condicionais;
+- Estruturas de repetição.

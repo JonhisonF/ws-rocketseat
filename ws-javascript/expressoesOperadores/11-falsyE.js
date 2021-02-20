@@ -38,4 +38,4 @@
 */
 
 
-console.log( 3.23  ? 'Verdadeiro' : 'Falso');
+console.log( 3.23 ? 'Verdadeiro' : 'Falso');
